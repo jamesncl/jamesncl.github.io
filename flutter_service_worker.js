@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "1ca7222f6d43d01ca2457eeb0768d27c",
-"assets/AssetManifest.json": "3fc7bce6f2f1241c64f6c5e979cbc1e5",
+const RESOURCES = {"assets/AssetManifest.bin": "eee17a34ddaf338ac63814834cd8a6be",
+"assets/AssetManifest.json": "1a92749e48caaefb12bf608711223e4d",
 "assets/assets/images/android.png": "09e2909c70cc46303aa3a40ab7376304",
 "assets/assets/images/apple.png": "c50b818c331e8e0e64c944eb731d71b4",
 "assets/assets/images/azure.png": "86ca32a3362f568d3db2aea52ee99ac3",
@@ -26,6 +26,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "1ca7222f6d43d01ca2457eeb0768d27c
 "assets/assets/images/thumbnail_chronicinsights.png": "97b6a0b0b63a876bce5fba59452af888",
 "assets/assets/images/thumbnail_flutterembedunity.png": "8c8a36a4bdf3f3052c63ee740dc45b08",
 "assets/assets/images/thumbnail_knovolution.png": "97316fc7eb8ee342116ad0e4f8f3865a",
+"assets/assets/images/thumbnail_profile.png": "995d0261bf5a561f4db6efd2141bc1c8",
 "assets/assets/images/thumbnail_symptomwatch.png": "afb8e1dded1e6d9d1c6216bd18ab6d0e",
 "assets/assets/images/thumbnail_wsn.png": "990eefe577112868f01b14e98fc4d1a9",
 "assets/assets/images/unity_dark.png": "77ca64d1dcb3fcd86308947eba50d56c",
@@ -51,9 +52,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "1ca7222f6d43d01ca2457eeb0768d27c
 "icons/Icon-maskable-192.png": "abc23704bb99b980c355053e2b36b4e8",
 "icons/Icon-maskable-512.png": "9a8d34eed9a34e253752a85296b4490b",
 "icons/loading.png": "0afc232eda2bbcc02471a406ce9a4f41",
-"index.html": "8ee78aba2ba00135d13d430f35221057",
-"/": "8ee78aba2ba00135d13d430f35221057",
-"main.dart.js": "afe307010dedcfa012414ae51b65793f",
+"index.html": "a51e2f4f62a5839be5ff650f77926cae",
+"/": "a51e2f4f62a5839be5ff650f77926cae",
+"main.dart.js": "daa0535dffb3ccd3abb1e259ff7263b3",
 "manifest.json": "ff4493ca5729822f04868032a3ce42c4",
 "rive/headlines.riv": "36716ea1497aacc28f52824f151cfdd5",
 "version.json": "a26005e92a6381740a8b1e7adac04f5a"};
