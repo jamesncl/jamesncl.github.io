@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "fe8b032800ca4b974aa99688f3a5c61f",
-"assets/AssetManifest.json": "9275ce15e383f340bd3c32d45a666ab4",
+const RESOURCES = {"assets/AssetManifest.bin": "60c358ea74c43b0b940146c670b2066a",
+"assets/AssetManifest.json": "f014343bb43c85426f1fbf1c54aae3ca",
 "assets/assets/images/akzo.png": "8b15d5bae24e1adcdb5f6027f1a1ea11",
 "assets/assets/images/android.png": "09e2909c70cc46303aa3a40ab7376304",
 "assets/assets/images/apple.png": "c50b818c331e8e0e64c944eb731d71b4",
@@ -29,6 +29,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fe8b032800ca4b974aa99688f3a5c61f
 "assets/assets/images/hive.png": "1d45a18d053c4ca2d29cdc1de3ff65e4",
 "assets/assets/images/html.png": "ebb2a80228f3bbe96005de5f9db4e61c",
 "assets/assets/images/illustration_cedarsnursery.png": "c62fa8e8ca582be77cd720ff2fea4fec",
+"assets/assets/images/illustration_chronicmindfulness.gif": "8583ced4b3440dff7081ac4e288267e6",
 "assets/assets/images/illustration_chronic_insights.gif": "80e47861a168bcab27cf63c690fa6dd2",
 "assets/assets/images/illustration_flutterembedunity.gif": "d9e3a66f264cb8a21678b51db7804bc5",
 "assets/assets/images/illustration_knovoscope.gif": "a6dcdc5a07c3b7996562c843225b060a",
@@ -61,6 +62,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fe8b032800ca4b974aa99688f3a5c61f
 "assets/assets/images/swift.png": "ec92835d9eccc0fa7a243e122eb09207",
 "assets/assets/images/tableau.png": "31a179ebf52e29aada3de8e847644423",
 "assets/assets/images/thumbnail_chronicinsights.png": "3d26c092e34c1041c05236f85e210c28",
+"assets/assets/images/thumbnail_chronicmindfulness.png": "8134bc181ef28bf57ef78403083710e3",
 "assets/assets/images/thumbnail_flutterembedunity.png": "8c8a36a4bdf3f3052c63ee740dc45b08",
 "assets/assets/images/thumbnail_knovolution.png": "a75b9b014036f9dbd19aeb043ffb7835",
 "assets/assets/images/thumbnail_profile.png": "995d0261bf5a561f4db6efd2141bc1c8",
@@ -74,6 +76,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "fe8b032800ca4b974aa99688f3a5c61f
 "assets/assets/images/web.png": "d4b24bbcaa6aea8ae8d175e030f482db",
 "assets/assets/images/wellstream.png": "6d5d71dc1f53e1b555ed01c2732bfd28",
 "assets/assets/images/wix.png": "214086febf143706d6a3297958b17d7d",
+"assets/assets/rive/headlines.riv": "8ebb0bf912ff3c36e58e661cbe2c403a",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/fonts/MaterialIcons-Regular.otf": "86d4f5f2dccbf97bd380f9a27e1911dc",
 "assets/NOTICES": "f3fd1185e61b6b2d35f36cd6b6c779ed",
@@ -92,11 +95,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "fe8b032800ca4b974aa99688f3a5c61f
 "icons/Icon-maskable-192.png": "abc23704bb99b980c355053e2b36b4e8",
 "icons/Icon-maskable-512.png": "9a8d34eed9a34e253752a85296b4490b",
 "icons/loading.png": "0afc232eda2bbcc02471a406ce9a4f41",
-"index.html": "a2ba0f284076c99bb112e0678591d265",
-"/": "a2ba0f284076c99bb112e0678591d265",
-"main.dart.js": "cba428369056d32d56e4b86a25cefed6",
+"index.html": "61f3e1a37383250b7db72f09b8830c40",
+"/": "61f3e1a37383250b7db72f09b8830c40",
+"main.dart.js": "fe64f41278f45702c0f3a40ea293a1e6",
 "manifest.json": "ff4493ca5729822f04868032a3ce42c4",
-"rive/headlines.riv": "8ebb0bf912ff3c36e58e661cbe2c403a",
 "version.json": "a26005e92a6381740a8b1e7adac04f5a"};
 // The application shell files that are downloaded before a service worker can
 // start.
